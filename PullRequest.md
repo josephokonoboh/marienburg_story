@@ -1,5 +1,6 @@
 # This is where we link the pull requests we made on other groups stories
-amoralesj -
+
+amoralesj - https://github.com/shunt161/SanssouciStory/pull/6
 
 cachav19 - https://github.com/amansharma96/StoryTimeMortizburg/pull/8
 
